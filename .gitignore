@@ -1,2 +1,6 @@
 IGNORED.MD
 /ignored-folder
+node_modules
+dist
+.yarn
+.pnp.*
